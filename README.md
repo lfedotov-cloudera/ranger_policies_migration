@@ -2,7 +2,8 @@
 
 Several scripts have been developed to accomplish task: 
 
-
+Tested and verified on FEPOC public Cloud deployment.
+Was NOT tested on Privte Cloud
  
 
 
